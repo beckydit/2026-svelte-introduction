@@ -13,4 +13,5 @@
 
 <style>
     h1 {color: palevioletred;}
+    p {color: rebeccapurple;}
 </style>
