@@ -11,7 +11,7 @@
 {@render children()}
 
 <footer>
-	<p>Copyright POLIMI 2026</p>
+	<p>© POLIMI 2026</p>
 </footer>	
 
 <style>

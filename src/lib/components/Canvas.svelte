@@ -2,7 +2,7 @@
   import { untrack } from "svelte";
 
   let size = $state(50);
-  let color = $state("#ff3e00");    
+  let color = $state("#598baf");    
 
   let canvas;
 

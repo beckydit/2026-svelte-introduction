@@ -40,8 +40,8 @@
 
 <style>
     label :global {
-        i {color: red;}
-        b {color: blue;}
+        i {color: rgb(11, 75, 149);}
+        b {color: rgb(0, 141, 151);}
     }
 </style>
 

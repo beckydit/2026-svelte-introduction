@@ -39,6 +39,6 @@
 
 <!-- CSS (STYLE) -->
 <style>
-    h1 {color: palevioletred;}
-    p {color: rebeccapurple;}
+    h1 {color: rgb(29, 81, 165);}
+    p {color: rgb(133, 172, 255);}
 </style>
